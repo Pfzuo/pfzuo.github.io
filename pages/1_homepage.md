@@ -21,6 +21,8 @@ permalink: /homepage/
 
 ---
 
+* Our two papers "FUSES: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23)!
+
 * Our paper "uKharon: A Membership Service for Microsecond Applications" was accepted by [USENIX ATC 2022](https://www.usenix.org/conference/atc22/)!
 
 * Our paper "RACE: One-Sided RDMA-Conscious Extendible Hashing" was accepted by ACM Transactions on Storage as an invited paper!
@@ -37,6 +39,11 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+
+* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSES: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2022. 
+
+* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2022. 
+
 * **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
 * **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
