@@ -40,9 +40,9 @@ permalink: /homepage/
 
 ---
 
-* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSES: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2022. 
+* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSES: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
-* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2022. 
+* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
 * **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
