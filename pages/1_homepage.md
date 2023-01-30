@@ -21,7 +21,7 @@ permalink: /homepage/
 
 ---
 
-* Our two papers "FUSES: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23)!
+* Our two papers "FUSEE: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23)!
 
 * Our paper "uKharon: A Membership Service for Microsecond Applications" was accepted by [USENIX ATC 2022](https://www.usenix.org/conference/atc22/)!
 
@@ -40,7 +40,7 @@ permalink: /homepage/
 
 ---
 
-* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSES: A Fully Memory-Disaggregated Key-Value Store]()", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
+* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
 * **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
