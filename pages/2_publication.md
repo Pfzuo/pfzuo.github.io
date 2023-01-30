@@ -15,20 +15,22 @@ permalink: /publication/
 ---
 #### 2023
 
-* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSES: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
 
-* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[Localized Validation Accelerates Distributed Transactions on Disaggregated Persistent Memory]()", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
+
+* Zhangyu Chen, Yu Hua, Luochangqi Ding, Bo Ding, **Pengfei Zuo**, Xue Liu, "[Lock-Free High- Performance Hashing for Persistent Memory via PM-Aware Holistic Optimization](https://csyhua.github.io/csyhua/hua-taco2022-lock-free.pdf)", ACM Transactions on Architecture and Code Optimization (**TACO**), Volume 20, Issue 1, March 2023, Article No.: 5, pages: 1–26.
 
 #### 2022
 
-
-* Zhangyu Chen, Yu Hua, Luochangqi Ding, Bo Ding, **Pengfei Zuo**, Xue Liu, "Lock-Free High-Performance Hashing for Persistent Memory via PM-Aware Holistic Optimization", Accepted and to appear in ACM Transactions on Architecture and Code Optimization (**TACO**), 2022.
 
 * Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, **Pengfei Zuo**, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2022. 
 
 * **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "[RACE: One-Sided RDMA-Conscious Extendible Hashing](https://csyhua.github.io/csyhua/hua-tos2022.pdf)", ACM Transactions on Storage (**TOS**) 18.2 (2022): 1-29. (*co-first authors) **[Invited Paper]**
 
-* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://www.usenix.org/system/files/fast22-zhang-ming.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
 
 * Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (**VLDB**), 2022.
 
