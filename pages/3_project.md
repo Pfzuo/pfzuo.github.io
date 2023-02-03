@@ -19,11 +19,19 @@ Memory disaggregation, which has attracted extensive attentions from both indust
 
 ### Publications
 
-* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://pfzuo.github.io/)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+
+* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[Localized Validation Accelerates Distributed Transactions on Disaggregated Persistent Memory]()", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
+
+* **Pengfei Zuo\***, Qihui Zhou\*, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, James Cheng, Rongfeng He, Huabing Yan, "[RACE: One-Sided RDMA-Conscious Extendible Hashing](https://csyhua.github.io/csyhua/hua-tos2022.pdf)", ACM Transactions on Storage (**TOS**) 18.2 (2022): 1-29. (*co-first authors) **[Invited Paper]**
+
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://www.usenix.org/system/files/fast22-zhang-ming.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (**FAST**), 2022.
 
 * **Pengfei Zuo**, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (**USENIX ATC**), 2021.
 
->## 1. Index Structures for NVM
+>## 2. Index Structures for NVM
    
 ### Overview
    
@@ -49,7 +57,7 @@ together and storing them into one cache line, and thus improve the cache line u
 * **Pengfei Zuo** and Yu Hua, "[A Write-friendly Hashing Scheme for Non-volatile Memory Systems](https://csyhua.github.io/csyhua/hua-MSST2017-NVM.pdf)", in Proceedings of the 33rd International Conference on Massive Storage Systems and Technology (**MSST**), 2017. 
 
 ---
->## 2. Secure NVM
+>## 3. Secure NVM
 
 
 ### Overview
@@ -72,7 +80,7 @@ Non-volatile memory (NVM) technologies are considered as promising candidates of
 * **Pengfei Zuo** and Yu Hua, "[SecPM: a Secure and Persistent Memory System for Non-volatile Memory](https://csyhua.github.io/csyhua/hua-hotstorage2018.pdf)", in Proceedings of 10th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage**), 2018.
 
 ---
->## 3. Data Deduplication
+>## 4. Data Deduplication
 
 ### Overview
 
