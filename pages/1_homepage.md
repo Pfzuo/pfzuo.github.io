@@ -21,6 +21,8 @@ permalink: /homepage/
 
 ---
 
+* Our paper "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" received the [**Best Paper Award** of FAST 2023](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=&title_1=FAST)!
+
 * Our two papers "FUSEE: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23)!
 
 * Our paper "uKharon: A Membership Service for Microsecond Applications" was accepted by [USENIX ATC 2022](https://www.usenix.org/conference/atc22/)!
@@ -39,10 +41,10 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
+<br> *(**FAST 2023 Best Paper Award**)* 
 
 * **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
-
-* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
 * **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
