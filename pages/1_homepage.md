@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Pengfei Zuo** is currently a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. He received a B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at multiple conferences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
+| <br> **Pengfei Zuo** is currently a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. He received a B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023. <br><br> He served as a PC member at multiple conferences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
 ***I am looking for motivated interns and postdocs in the areas of computer systems. Please feel free to contact me if you are interested in addressing important problems in the industry and publishing influenced work.*** 
 
@@ -42,7 +42,7 @@ permalink: /homepage/
 
 ---
 * **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
-<br> *(**FAST 2023 Best Paper Award**)* 
+<br> *(**Best Paper Award**)* 
 
 * **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
@@ -79,6 +79,7 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
+*  Best Paper Award in FAST 2023.
 *  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020. (Only two awardees among all computer disciplines across China every year.)
 *  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020.
 *  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020.
