@@ -15,11 +15,14 @@ permalink: /publication/
 ---
 #### 2023
 
-* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+* Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “SMART: A High-Performance Apative Radix Tree for Disaggregated Memory”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
 
-* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023.
+<br> *(**Best Paper Award**)* 
 
-* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[Localized Validation Accelerates Distributed Transactions on Disaggregated Persistent Memory]()", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23/presentation/shen)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023. 
+
+* Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[Localized Validation Accelerates Distributed Transactions on Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-tos2023-ford.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
 
 * Zhangyu Chen, Yu Hua, Luochangqi Ding, Bo Ding, **Pengfei Zuo**, Xue Liu, "[Lock-Free High- Performance Hashing for Persistent Memory via PM-Aware Holistic Optimization](https://csyhua.github.io/csyhua/hua-taco2022-lock-free.pdf)", ACM Transactions on Architecture and Code Optimization (**TACO**), Volume 20, Issue 1, March 2023, Article No.: 5, pages: 1–26.
 
