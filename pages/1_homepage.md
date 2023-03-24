@@ -21,17 +21,19 @@ permalink: /homepage/
 
 ---
 
+* Our paper "SMART: A High-Performance Apative Radix Tree for Disaggregated Memory" was accepted by [OSDI'2023](https://www.usenix.org/conference/osdi23). Congratulation to Xuchuan!
+
 * Our paper "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" received the [**Best Paper Award** of FAST 2023](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=&title_1=FAST)!
 
-* Our two papers "FUSEE: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23)!
+* Our two papers "FUSEE: A Fully Memory-Disaggregated Key-Value Store" and "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems" were accepted by [FAST 2023](https://www.usenix.org/conference/fast23). Congratulation to Jiacheng and Pengfei!
 
 * Our paper "uKharon: A Membership Service for Microsecond Applications" was accepted by [USENIX ATC 2022](https://www.usenix.org/conference/atc22/)!
 
 * Our paper "RACE: One-Sided RDMA-Conscious Extendible Hashing" was accepted by ACM Transactions on Storage as an invited paper!
 
-* Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
+* Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22). Congratulation to Ming!
 
-* Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
+* Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/). Congratulation to Pengfei!
 
 * Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
 
@@ -41,10 +43,12 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
-* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/HUA-FAST23-ROLEX.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
+* **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “SMART: A High-Performance Apative Radix Tree for Disaggregated Memory”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
+
+* **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
 <br> *(**Best Paper Award**)* 
 
-* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://pfzuo.github.io/images/FUSEE-fast23.pdf)", accepted and to appear in the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
+* **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23/presentation/shen)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
 
 * **[USENIX ATC]** Rachid Guerraoui, Antoine Murat, Javier Picorel, Athanasios Xygkis, Huabing Yan, Pengfei Zuo, "[uKharon: A Membership Service for Microsecond Applications](https://www.usenix.org/conference/atc22/presentation/guerraoui)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2022. 
 
