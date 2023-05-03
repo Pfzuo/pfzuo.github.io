@@ -35,7 +35,7 @@ permalink: /homepage/
 
 * Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/). Congratulations to Pengfei!
 
-* Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
+* Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! 
 
 * Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
