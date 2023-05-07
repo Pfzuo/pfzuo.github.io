@@ -14,6 +14,8 @@ permalink: /publication/
 
 ---
 
+#### Summary
+
 <table border="1" align="center">
  <tr>
   <td> <strong> Area </strong> </td>
@@ -42,7 +44,9 @@ permalink: /publication/
  </tr>
 </table>
 
-<br>
+
+
+---
 
 #### 2023
 
