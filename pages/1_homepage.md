@@ -10,9 +10,9 @@ permalink: /homepage/
 {:toc}
 
  
-## Biography
+## **Pengfei Zuo**
  
-| <br> **Pengfei Zuo** is currently a research scientist at Huawei Cloud. He received his Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. He received a B.E. degree in Computer Science from HUST in 2014. <br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems, and distributed systems. He obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023. <br><br> He served as a PC member at multiple conferences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
+| <br> I am currently a research scientist at Huawei Cloud. I received my Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014. <br> <br> My research interests span memory systems, storage systems, and distributed systems. I have published 30+ refereed papers in major conferences and journals in the areas of computer system and architecture, including OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc. I obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023. <br><br> I served as a PC member at multiple conferences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
 ***I am looking for motivated interns and postdocs in the areas of computer systems. Please feel free to contact me if you are interested in addressing important problems in the industry and publishing influential papers.*** 
 
@@ -35,7 +35,7 @@ permalink: /homepage/
 
 * Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/). Congratulations to Pengfei!
 
-* Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! 
+* I was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! 
 
 * Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
@@ -46,6 +46,7 @@ permalink: /homepage/
 * **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “SMART: A High-Performance Apative Radix Tree for Disaggregated Memory”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
 * **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
+<br> *(**Recommended for fast-track publication in ACM Transactions on Storage**)*
 <br> *(**Best Paper Award**)* 
 
 * **[FAST]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23/presentation/shen)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023. 
@@ -57,7 +58,7 @@ permalink: /homepage/
 * **[VLDB]** Pengfei Li, Yu Hua, Jingnan Jia, Pengfei Zuo, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), 2022.
 
 * **[USENIX ATC]** Pengfei Zuo, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2021. 
-<br> *(**One of USENIX ATC 2021 papers selected for fast-track publication in ACM Transactions on Storage: [recommandations by ATC 2021 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3519550)**)*
+<br> *(**Recommended for fast-track publication in ACM Transactions on Storage: [recommendations by ATC 2021 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3519550)**)*
 
 * **[DAC]** Pengfei Zuo, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (DAC), 2021.
 
@@ -70,7 +71,7 @@ permalink: /homepage/
 * **[MICRO]** Pengfei Zuo, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.    [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
 * **[OSDI]** Pengfei Zuo, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://www.usenix.org/system/files/osdi18-zuo.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)] 
-<br> *(**One of OSDI 2018 papers selected for fast-track publication in ACM Transactions on Storage: [recommandations by OSDI 2018 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3322101)**)* 
+<br> *(**Recommended for fast-track publication in ACM Transactions on Storage: [recommendations by OSDI 2018 program co-chairs](https://dl.acm.org/doi/pdf/10.1145/3322101)**)* 
 <br> *(**Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)**)*
 
 * **[MICRO]** Pengfei Zuo, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (MICRO), 2018. [[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
