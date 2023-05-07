@@ -13,6 +13,37 @@ permalink: /publication/
 ## Publications
 
 ---
+
+<table border="1" align="center">
+ <tr>
+  <td> <strong> Area </strong> </td>
+  <td colspan="4" align="center"> System </td>
+  <td colspan="3" align="center"> Architecture </td>  
+ </tr>
+ <tr>
+  <td> <strong> Conference </strong> </td>
+  <td> OSDI </td>
+  <td> FAST </td>
+  <td> USENIX ATC </td>
+  <td> VLDB </td>
+  <td> MICRO </td>
+  <td> ASPLOS </td>
+  <td> DAC </td>
+ </tr>
+  <tr>
+  <td> <strong> Count </strong> </td>
+  <td align="center"> 2 </td>
+  <td align="center"> 3 </td>
+  <td align="center"> 4 </td>
+  <td align="center"> 1 </td>
+  <td align="center"> 2 </td>
+  <td align="center"> 1 </td>
+  <td align="center"> 2 </td>
+ </tr>
+</table>
+
+<br>
+
 #### 2023
 
 * Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “SMART: A High-Performance Apative Radix Tree for Disaggregated Memory”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
