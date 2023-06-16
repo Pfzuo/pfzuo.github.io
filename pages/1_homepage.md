@@ -43,7 +43,7 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
-* **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “SMART: A High-Performance Apative Radix Tree for Disaggregated Memory”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
+* **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/pfzuo/osdi23-final390.pdf)”, accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
 * **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
 <br> *(**Recommended for fast-track publication in ACM Transactions on Storage**)*
