@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## **Pengfei Zuo**
  
-| <br> I am currently a research scientist at Huawei Cloud. I am leading the MemArts (Memory Architecture and System) team to build a disaggregated memory and cache layer in the Huawei cloud. I received my Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014. <br> <br> My research interests span memory systems, storage systems, and distributed systems. I have published 30+ refereed papers in major conferences and journals in the areas of computer system and architecture, including OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc. I obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023. <br><br> I served as a PC member at multiple conferences including ICDCS 2021, Cloud 2021, ICPADS 2020, etc, and a reviewer for multiple journals including TPDS, TC, TOS, TDSC, etc. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
+| <br> I am currently a research scientist at Huawei Cloud. I am leading the MemArts (Memory Architecture and System) team to build a disaggregated memory and cache layer in the Huawei cloud. I received my Ph.D. degree (advised by [Prof. Yu Hua](https://csyhua.github.io/csyhua/index.html)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019, and was a visiting PhD student (advised by [Prof. Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014. <br> <br> My research interests span memory systems, storage systems, and distributed systems. I have published 30+ refereed papers in major conferences and journals in the areas of computer system and architecture, including OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc. I obtained the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023. <br><br>  **Email:** <pfzuo.cs@gmail.com>, <pengfei.zuo@huawei.com>   <br> <br> | <br> &emsp; ![image](https://pfzuo.github.io/images/zuo-2021.jpg) <br> <br> |
 
 ***I am looking for motivated interns and postdocs in the areas of computer systems. Please feel free to contact me if you are interested in addressing important problems in the industry and publishing influential papers.*** 
 
@@ -20,6 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
+* Our paper "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System" was accepted by [SOSP'2023](https://sosp2023.mpi-sws.org/). Congratulations to Jiacheng!
 
 * Our paper "SMART: A High-Performance Apative Radix Tree for Disaggregated Memory" was accepted by [OSDI'2023](https://www.usenix.org/conference/osdi23). Congratulations to Xuchuan!
 
@@ -43,7 +44,9 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
-* **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/images/osdi23-final390.pdf)”, Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
+* **[SOSP]**  Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System", Accepted and to Appear in the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
+
+* **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://www.usenix.org/conference/osdi23/presentation/luo)”, Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
 * **[FAST]** Pengfei Li, Yu Hua, Pengfei Zuo, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (FAST), 2023.
 <br> *(**Recommended for fast-track publication in ACM Transactions on Storage**)*
