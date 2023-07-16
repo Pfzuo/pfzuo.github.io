@@ -19,11 +19,12 @@ permalink: /publication/
 <table border="1" align="center">
  <tr>
   <td> <strong> Area </strong> </td>
-  <td colspan="4" align="center"> System </td>
+  <td colspan="5" align="center"> System </td>
   <td colspan="3" align="center"> Architecture </td>  
  </tr>
  <tr>
   <td> <strong> Conference </strong> </td>
+  <td> SOSP </td>
   <td> OSDI </td>
   <td> FAST </td>
   <td> USENIX ATC </td>
@@ -34,6 +35,7 @@ permalink: /publication/
  </tr>
   <tr>
   <td> <strong> Count </strong> </td>
+  <td align="center"> 1 </td>
   <td align="center"> 2 </td>
   <td align="center"> 3 </td>
   <td align="center"> 4 </td>
@@ -49,6 +51,8 @@ permalink: /publication/
 ---
 
 #### 2023
+
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System", Accepted and to Appear in the 29th ACM Symposium on Operating Systems Principles (**SOSP**), 2023.
 
 * Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, **Pengfei Zuo**, Xusheng Chen, Liangliang Xu, Qin Zhang, Hao Feng, Yizhou Shan, "[Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers](https://sigops.org/s/conferences/hotos/2023/papers/hu.pdf)", In Workshop on Hot Topics in Operating Systems (**HotOS**), 2023.
 
