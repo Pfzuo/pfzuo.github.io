@@ -54,10 +54,10 @@ permalink: /publication/
 
 * Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System", Accepted and to Appear in the 29th ACM Symposium on Operating Systems Principles (**SOSP**), 2023.
 
-* Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, **Pengfei Zuo**, Xusheng Chen, Liangliang Xu, Qin Zhang, Hao Feng, Yizhou Shan, "[Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers](https://sigops.org/s/conferences/hotos/2023/papers/hu.pdf)", In Workshop on Hot Topics in Operating Systems (**HotOS**), 2023.
-
 * Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/images/osdi23-final390.pdf)", Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
 
+* Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, **Pengfei Zuo**, Xusheng Chen, Liangliang Xu, Qin Zhang, Hao Feng, Yizhou Shan, "[Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers](https://sigops.org/s/conferences/hotos/2023/papers/hu.pdf)", In Workshop on Hot Topics in Operating Systems (**HotOS**), 2023.
+  
 * Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[A High-Performance RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/hua-tos2023-learned.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
 <br> <span style="color:red">(Invited Paper)</span>
 
