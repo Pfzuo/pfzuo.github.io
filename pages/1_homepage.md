@@ -20,7 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
-* Our paper "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System" was accepted by [SOSP'2023](https://sosp2023.mpi-sws.org/). Congratulations to Jiacheng!
+* Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System" was accepted by [SOSP'2023](https://sosp2023.mpi-sws.org/). Congratulations to Jiacheng!
 
 * Our paper "SMART: A High-Performance Apative Radix Tree for Disaggregated Memory" was accepted by [OSDI'2023](https://www.usenix.org/conference/osdi23). Congratulations to Xuchuan!
 
@@ -44,7 +44,7 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
-* **[SOSP]**  Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System", Accepted and to Appear in the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
+* **[SOSP]**  Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System", Accepted and to Appear in the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
 
 * **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://www.usenix.org/conference/osdi23/presentation/luo)”, Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
