@@ -52,7 +52,7 @@ permalink: /publication/
 
 #### 2023
 
-* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "[Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System](https://pfzuo.github.io/pfzuo/ditto-sosp2023.pdf)", Proceedings of the 29th ACM Symposium on Operating Systems Principles (**SOSP**), 2023.
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "[Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System](https://pfzuo.github.io/images/ditto-sosp2023.pdf)", Proceedings of the 29th ACM Symposium on Operating Systems Principles (**SOSP**), 2023.
 
 * Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/images/osdi23-final390.pdf)", Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
 
