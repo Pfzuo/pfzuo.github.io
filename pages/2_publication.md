@@ -56,6 +56,11 @@ permalink: /publication/
 
 * Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/images/osdi23-final390.pdf)", Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
 
+* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023.
+<br> <span style="color:red">(Best Paper Award)</span>
+
+* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23/presentation/shen)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023.
+
 * Qiliang Li, Liangliang Xu, Yongkun Li, Min Lyu, Wei Wang, **Pengfei Zuo**, Yinlong Xu, "[Enabling Efficient Erasure Coding in Disaggregated Memory Systems](https://ieeexplore.ieee.org/abstract/document/10319328/)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**) 35.1 (2023): 154-168.
 
 * Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**,  "[A Fast Learned Key-Value Store for Concurrent and Distributed Systems](https://ieeexplore.ieee.org/abstract/document/10292900)", IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023.
@@ -66,11 +71,6 @@ permalink: /publication/
   
 * Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[A High-Performance RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/hua-tos2023-learned.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
 <br> <span style="color:red">(Invited Paper)</span>
-
-* Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/conference/fast23/presentation/li-pengfei)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023.
-<br> <span style="color:red">(Best Paper Award)</span>
-
-* Jiacheng Shen, **Pengfei Zuo**, Xuchuan Luo, Tianyi Yang, Yuxin Su, Yangfan Zhou, Michael Lyu, "[FUSEE: A Fully Memory-Disaggregated Key-Value Store](https://www.usenix.org/conference/fast23/presentation/shen)", Proceedings of the 21st USENIX Conference on File and Storage Technologies (**FAST**), 2023.
 
 * Ming Zhang, Yu Hua, **Pengfei Zuo**, Lurong Liu, "[Localized Validation Accelerates Distributed Transactions on Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-tos2023-ford.pdf)", ACM Transactions on Storage (**TOS**), Vol. 19, No. 3, Article 21. June 2023, 35 pages.
 
