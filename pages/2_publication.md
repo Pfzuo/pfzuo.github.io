@@ -56,6 +56,12 @@ permalink: /publication/
 
 * Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://pfzuo.github.io/images/osdi23-final390.pdf)", Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (**OSDI**), 2023.
 
+* Qiliang Li, Liangliang Xu, Yongkun Li, Min Lyu, Wei Wang, **Pengfei Zuo**, Yinlong Xu, "[Enabling Efficient Erasure Coding in Disaggregated Memory Systems](https://ieeexplore.ieee.org/abstract/document/10319328/)", IEEE Transactions on Parallel and Distributed Systems (**TPDS**) 35.1 (2023): 154-168.
+
+* Pengfei Li, Yu Hua, Jingnan Jia, **Pengfei Zuo**,  "[A Fast Learned Key-Value Store for Concurrent and Distributed Systems](https://ieeexplore.ieee.org/abstract/document/10292900)", IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023.
+
+* Chenxi Wang, Yizhou Shan, **Pengfei Zuo**, Huimin Cui, "[Reinvent Cloud Software Stacks for Resource Disaggregation](https://link.springer.com/article/10.1007/s11390-023-3272-0)",  Journal of Computer Science and Technology (**JCST**) 38.5 (2023): 949-969.
+
 * Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, **Pengfei Zuo**, Xusheng Chen, Liangliang Xu, Qin Zhang, Hao Feng, Yizhou Shan, "[Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers](https://sigops.org/s/conferences/hotos/2023/papers/hu.pdf)", In Workshop on Hot Topics in Operating Systems (**HotOS**), 2023.
   
 * Pengfei Li, Yu Hua, **Pengfei Zuo**, Zhangyu Chen, Jiajie Sheng, "[A High-Performance RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://csyhua.github.io/csyhua/hua-tos2023-learned.pdf)", Accepted and to appear in ACM Transactions on Storage (**TOS**), 2023.
