@@ -53,7 +53,7 @@ permalink: /publication/
 
 * Bin Gao, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, **Pengfei Zuo**, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", Proceedings of the 2024 USENIX Annual Technical Conference (**USENIX ATC**), 2024.
 
-* Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "[A Memory-disaggregated Radix Tree]", ACM Transactions on Storage (**TOS**), 2024.
+* Xuchuan Luo, **Pengfei Zuo**, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, "A Memory-disaggregated Radix Tree", ACM Transactions on Storage (**TOS**), 2024.
 
 
 #### 2023
