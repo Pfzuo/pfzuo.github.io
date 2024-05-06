@@ -49,6 +49,7 @@ permalink: /homepage/
 * **[USENIX ATC]** Bin Gao, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708)", Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC), 2024.
 
 * **[SOSP]**  Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "[Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System](https://pfzuo.github.io/images/ditto-sosp2023.pdf)", Proceedings of the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
+<br> *(**Recommended for fast-track publication in ACM Transactions on Storage**)*
 
 * **[OSDI]** Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou, “[SMART: A High-Performance Apative Radix Tree for Disaggregated Memory](https://www.usenix.org/conference/osdi23/presentation/luo)”, Proceedings of the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
