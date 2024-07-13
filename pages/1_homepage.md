@@ -20,7 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
-* Our paper "Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention" was accepted by [USENIX ATC'2024](https://www.usenix.org/conference/atc24). Congratulations to Bin Gao!
+* Our paper "Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention" was accepted by [USENIX ATC'2024](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost). Congratulations to Bin Gao!
 
 * Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System" was accepted by [SOSP'2023](https://sosp2023.mpi-sws.org/). Congratulations to Jiacheng!
 
