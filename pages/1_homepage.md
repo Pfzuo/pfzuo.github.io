@@ -20,6 +20,8 @@ permalink: /homepage/
 ## News
 
 ---
+Our two papers "Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores" and "CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory" were accepted by [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/index.html). Congratulations to Zhisheng and Xuchuan!
+
 * Our paper "Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention" was accepted by [USENIX ATC'2024](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost). Congratulations to Bin Gao!
 
 * Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System" was accepted by [SOSP'2023](https://sosp2023.mpi-sws.org/). Congratulations to Jiacheng!
@@ -46,6 +48,11 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+
+* **[SOSP]** Zhisheng Hu, Pengfei Zuo, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores", accepted and to appear in the 30th ACM Symposium on Operating Systems Principles (SOSP), 2024.
+
+* **[SOSP]** Xuchuan Luo, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou, "CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory", accepted and to appear in the 30th ACM Symposium on Operating Systems Principles (SOSP), 2024.
+
 * **[USENIX ATC]** Bin Gao, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, Pengfei Zuo, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost)", Proceedings of the 2024 USENIX Annual Technical Conference (USENIX ATC), 2024.
 
 * **[SOSP]**  Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Hao Feng, Yangfan Zhou, Michael Lyu, "[Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System](https://pfzuo.github.io/images/ditto-sosp2023.pdf)", Proceedings of the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
