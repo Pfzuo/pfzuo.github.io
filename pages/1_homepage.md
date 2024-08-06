@@ -20,7 +20,8 @@ permalink: /homepage/
 ## News
 
 ---
-Our two papers "Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores" and "CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory" were accepted by [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/index.html). Congratulations to Zhisheng and Xuchuan!
+
+* Our two papers "Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores" and "CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory" were accepted by [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/index.html). Congratulations to Zhisheng and Xuchuan!
 
 * Our paper "Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention" was accepted by [USENIX ATC'2024](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost). Congratulations to Bin Gao!
 
