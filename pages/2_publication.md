@@ -35,7 +35,7 @@ permalink: /publication/
  </tr>
   <tr>
   <td> <strong> Count </strong> </td>
-  <td align="center"> 1 </td>
+  <td align="center"> 3 </td>
   <td align="center"> 2 </td>
   <td align="center"> 3 </td>
   <td align="center"> 5 </td>
