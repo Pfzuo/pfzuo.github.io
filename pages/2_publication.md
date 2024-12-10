@@ -49,7 +49,7 @@ permalink: /publication/
 ---
 #### 2025
 
-* Zhuomin He, Yizhen Yao, Pengfei Zuo, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", accepted and to appear in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+* Zhuomin He, Yizhen Yao, **Pengfei Zuo**, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", accepted and to appear in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 #### 2024
 
