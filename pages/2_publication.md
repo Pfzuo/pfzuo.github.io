@@ -46,14 +46,17 @@ permalink: /publication/
  </tr>
 </table>
 
+---
+#### 2025
 
+* Zhuomin He, Yizhen Yao, Pengfei Zuo, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", accepted and to appear in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 ---
 #### 2024
 
-* Zhisheng Hu, **Pengfei Zuo**, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "[Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", accepted and to appear in the 30th ACM Symposium on Operating Systems Principles (**SOSP**), 2024.
+* Zhisheng Hu, **Pengfei Zuo**, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "[Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", Proceedings of the 30th ACM Symposium on Operating Systems Principles (**SOSP**), 2024.
 
-* Xuchuan Luo, Jiacheng Shen, **Pengfei Zuo**, Xin Wang, Michael R. Lyu, Yangfan Zhou, "[CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://pfzuo.github.io/images/sosp24-CHIME.pdf)", accepted and to appear in the 30th ACM Symposium on Operating Systems Principles (**SOSP**), 2024.
+* Xuchuan Luo, Jiacheng Shen, **Pengfei Zuo**, Xin Wang, Michael R. Lyu, Yangfan Zhou, "[CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://pfzuo.github.io/images/sosp24-CHIME.pdf)", Proceedings of the 30th ACM Symposium on Operating Systems Principles (**SOSP**), 2024.
 
 * Bin Gao, Zhuomin He, Puru Sharma, Qingxuan Kang, Djordje Jevdjic, Junbo Deng, Xingkun Yang, Zhou Yu, **Pengfei Zuo**, "[Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost)", Proceedings of the 2024 USENIX Annual Technical Conference (**USENIX ATC**), 2024.
 
