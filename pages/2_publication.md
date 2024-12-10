@@ -51,7 +51,6 @@ permalink: /publication/
 
 * Zhuomin He, Yizhen Yao, Pengfei Zuo, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://aaai.org/conference/aaai/aaai-25/)", accepted and to appear in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
----
 #### 2024
 
 * Zhisheng Hu, **Pengfei Zuo**, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "[Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", Proceedings of the 30th ACM Symposium on Operating Systems Principles (**SOSP**), 2024.
