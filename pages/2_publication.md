@@ -12,6 +12,7 @@ permalink: /publication/
 
 ## Publications
 
+<!--
 ---
 
 #### Summary
@@ -45,6 +46,7 @@ permalink: /publication/
   <td align="center"> 2 </td>
  </tr>
 </table>
+-->
 
 ---
 #### 2025
