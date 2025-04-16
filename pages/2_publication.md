@@ -55,7 +55,7 @@ permalink: /publication/
 
 * Qihui Zhou, Peiqi Yin, **Pengfei Zuo**, James Cheng, "[Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving](https://arxiv.org/pdf/2503.00392)", arXiv preprint arXiv:2503.00392 (2025).
 
-* Zhuomin He, Yizhen Yao, **Pengfei Zuo**, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://arxiv.org/abs/2501.02336)", accepted and to appear in the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+* Zhuomin He, Yizhen Yao, **Pengfei Zuo**, Bin Gao, Qinya Li, Zhenzhe Zheng, Fan Wu, "[AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](https://arxiv.org/abs/2501.02336)", Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 #### 2024
 
