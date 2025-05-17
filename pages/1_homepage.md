@@ -51,6 +51,9 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+* **[ArXiv]** Yunkai Liang, Zhangyu Chen, Pengfei Zuo, Zhi Zhou, Xu Chen, Zhou Yu, "[Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation](https://arxiv.org/pdf/2503.20552)", arXiv preprint arXiv:2503.20552 (2025).
+
+*  **[ArXiv]** Qihui Zhou, Peiqi Yin, Pengfei Zuo, James Cheng, "[Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving](https://arxiv.org/pdf/2503.00392)", arXiv preprint arXiv:2503.00392 (2025). 
 
 * **[SOSP]** Zhisheng Hu, Pengfei Zuo, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "[Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", Proceedings of the 30th ACM Symposium on Operating Systems Principles (SOSP), 2024.
 
@@ -84,8 +87,6 @@ permalink: /homepage/
 
 * **[ASPLOS]** Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, Pengfei Zuo, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020. 
 
-* **[DAC]** Zhangyu Chen, Yu Hua, Pengfei Zuo, Yuanyuan Sun, Yuncheng Guo, "[Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression](https://csyhua.github.io/csyhua/hua-dac2020-simcom.pdf)", Proceedings of the 57th Design Automation Conference (DAC), 2020.  
-
 * **[MICRO]** Pengfei Zuo, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.    [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
 
 * **[OSDI]** Pengfei Zuo, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://www.usenix.org/system/files/osdi18-zuo.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)] 
@@ -94,7 +95,6 @@ permalink: /homepage/
 
 * **[MICRO]** Pengfei Zuo, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (MICRO), 2018. [[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
 
-* **[USENIX ATC]** Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, Pengfei Zuo, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://www.usenix.org/system/files/conference/atc17/atc17-sun.pdf)", in Proceedings of USENIX Annual Technical Conference (USENIX ATC), 2017.
 
 [**Full Publication List**](http://pfzuo.github.io/publication/)
 
@@ -121,12 +121,13 @@ permalink: /homepage/
 
 ---
 **PC Member at conferences:**
+* EuroSys 2026
 * NSDI 2025
 * Cloud 2021, 2022
 * ICDCS 2021
 * CloudCom 2020
 * ICPADS 2020
-* ChinaSys 2021, 2022, 2023, 2024
+* ChinaSys 2021, 2022, 2023, 2024, 2025
 * Eurosys 2019 (Shadow)
 
 
