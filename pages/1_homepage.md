@@ -21,7 +21,7 @@ permalink: /homepage/
 
 ---
 
-Our paper "Serving Large Language Models on Huawei CloudMatrix384" is now available on [ArXiv](https://arxiv.org/abs/2506.12708)!
+* Our paper "Serving Large Language Models on Huawei CloudMatrix384" is now available on [ArXiv](https://arxiv.org/abs/2506.12708)!
 
 * Our paper "AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference" was accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). Congratulations to Zhuomin and Yizhen!
 
