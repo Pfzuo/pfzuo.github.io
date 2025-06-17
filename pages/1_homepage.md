@@ -21,6 +21,8 @@ permalink: /homepage/
 
 ---
 
+Our paper "Serving Large Language Models on Huawei CloudMatrix384" is now available on [ArXiv](https://arxiv.org/abs/2506.12708)!
+
 * Our paper "AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference" was accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). Congratulations to Zhuomin and Yizhen!
 
 * Our two papers "Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores" and "CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory" were accepted by [SOSP'2024](https://sigops.org/s/conferences/sosp/2024/index.html). Congratulations to Zhisheng and Xuchuan!
@@ -51,6 +53,10 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+
+* **[ArXiv]** Pengfei Zuo, Huiming Lin, Junbo Deng, et al. "[Serving Large Language Models on Huawei CloudMatrix384](https://arxiv.org/abs/2506.12708)", arXiv preprint arXiv:2506.12708 (2025).
+
+
 * **[ArXiv]** Yunkai Liang, Zhangyu Chen, Pengfei Zuo, Zhi Zhou, Xu Chen, Zhou Yu, "[Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation](https://arxiv.org/pdf/2503.20552)", arXiv preprint arXiv:2503.20552 (2025).
 
 *  **[ArXiv]** Qihui Zhou, Peiqi Yin, Pengfei Zuo, James Cheng, "[Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving](https://arxiv.org/pdf/2503.00392)", arXiv preprint arXiv:2503.00392 (2025). 
