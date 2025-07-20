@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /service/
-title: Service
-description: Professional Services
+title: Services
+# description: Professional Services
 nav: true
 nav_order: 10
 ---
 
-**PC Member at conferences:**
+**PC Member at Conferences:**
 * EuroSys 2026
 * NSDI 2025
 * Cloud 2021, 2022
