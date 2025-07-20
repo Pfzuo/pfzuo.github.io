@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: >
   <b>Email:</b> <a href="mailto:pfzuo.cs@gmail.com">pfzuo.cs@gmail.com</a>, <a href="mailto:pengfei.zuo@huawei.com">pengfei.zuo@huawei.com</a>
