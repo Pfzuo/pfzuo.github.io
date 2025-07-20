@@ -7,8 +7,8 @@ nav: true
 nav_order: 15
 ---
 
-Date       | Title and Event                                                                                                                                 | Location        |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+|Date        | Title and Event                                                                                                                                 | Location        |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | 11/2024    | *"Disaggregated Memory Infrastructure in AI Datacenters"*, Invited Talk in CCF ChinaStorage 2024.                                              | Gongzhou, China |
 | 10/2024    | *"CachedAttention: How to Improve the Cost Efficiency of LLM Serving by Trading Storage for Compute?"*, Invited Talk in CCF Storage Committee. | Shenzhen, China |
 | 12/2021    | *"One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory"*, Invited Talk in CCF Sys 2021.                                       | Hangzhou, China |
