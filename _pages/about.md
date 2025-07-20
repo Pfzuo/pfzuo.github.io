@@ -33,21 +33,26 @@ I currently serve as the chief architect of AI-native storage at Huawei Cloud. I
 
 ***I am seeking motivated interns and postdocs in AI systems. If you're passionate about tackling key industry challenges and publishing impactful research, feel free to reach out!*** 
 
-## Research
+---
 
-### AI Algorithms and Systems  
+### Research
+
+#### AI Systems and Algorithms  
 * LLM Serving Systems: [CachedAttention (USENIX ATC'24)](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost), [Adrenaline (ArXiv'25)](https://arxiv.org/abs/2406.10198), [PSA (ArXiv'25)](https://arxiv.org/abs/2406.10731)  
 * Efficient AI algorithms: [AdaSkip (AAAI'25)](https://arxiv.org/abs/2405.19583)  
 * AI Hardware: [CloudMatrix384 (ArXiv'25)](https://arxiv.org/abs/2506.12708)  
 * Security for AI: [DeepSniffer (ASPLOS'20)](https://dl.acm.org/doi/10.1145/3373376.3378487), [SEAL (DAC'21)](https://dl.acm.org/doi/10.1109/DAC18074.2021.9586256), [Memory Trojaning (TCAD'21)](https://ieeexplore.ieee.org/document/9345491)  
 
-### Memory Systems and Architecture  
-* Disaggregated Memory Indexes: [RACE (USENIX ATC'21)](https://www.usenix.org/system/files/atc21-zuo.pdf), [SMART (OSDI'23)](https://www.usenix.org/conference/osdi23/presentation/luo), [CHIME (SOSP'24)](https://arxiv.org/abs/2405.20831)  
+#### Memory Systems and Architectures  
 * Disaggregated Memory Systems: [FORD (FAST'22)](https://www.usenix.org/system/files/fast22-zhang-ming.pdf), [ROLEX (FAST'23)](https://www.usenix.org/conference/fast23/presentation/li-pengfei), [Ditto (SOSP'23)](https://dl.acm.org/doi/10.1145/3600006.3613144), [Aceso (SOSP'24)](https://dl.acm.org/doi/10.1145/3694715.3695951)  
+* Disaggregated Memory Indexes: [RACE (USENIX ATC'21)](https://www.usenix.org/system/files/atc21-zuo.pdf), [SMART (OSDI'23)](https://www.usenix.org/conference/osdi23/presentation/luo), [CHIME (SOSP'24)](https://arxiv.org/abs/2405.20831)  
 * Persistent Memory Systems: [Level Hashing (OSDI'18)](https://www.usenix.org/conference/osdi18/presentation/zuo) , [CLevel (USENIX ATC'20)](https://www.usenix.org/conference/atc20/presentation/chen)
-* Persistent Memory Architecture: [DPEC (DATE'18)](https://ieeexplore.ieee.org/document/8342113), [DeWrite (MICRO'18)](https://ieeexplore.ieee.org/document/8595424), [SecPM (HotStorage'18)](https://www.usenix.org/conference/hotstorage18/presentation/zuo), [SuperMem (MICRO'19)](https://dl.acm.org/doi/10.1145/3352460.3358290), [SimCom (DAC'20)](https://ieeexplore.ieee.org/document/9218581)  
+* Persistent Memory Architectures: [DPEC (DATE'18)](https://ieeexplore.ieee.org/document/8342113), [DeWrite (MICRO'18)](https://ieeexplore.ieee.org/document/8595424), [SecPM (HotStorage'18)](https://www.usenix.org/conference/hotstorage18/presentation/zuo), [SuperMem (MICRO'19)](https://dl.acm.org/doi/10.1145/3352460.3358290), [SimCom (DAC'20)](https://ieeexplore.ieee.org/document/9218581)  
 
-### Storage Systems  
-* Deduplication Systems: [SMR (MSST'17)](https://ieeexplore.ieee.org/document/7965055), [BEES (ICDCS'17)](https://pfzuo.github.io/publication/), [RRCS (IPDPS'18)](https://ieeexplore.ieee.org/document/8374580)  
+#### Storage Systems  
 * Indexes: [MinCounter (MSST'15)](https://ieeexplore.ieee.org/document/7165945), [Path Hashing (MSST'17)](https://pfzuo.github.io/publication/), [SmartCuckoo (USENIX ATC'17)](https://pfzuo.github.io/publication/), [DLSH (SoCC'17)](https://pfzuo.github.io/publication/), [FINEDex (VLDB'22)](https://pfzuo.github.io/publication/)  
+* Deduplication Systems: [SMR (MSST'17)](https://ieeexplore.ieee.org/document/7965055), [BEES (ICDCS'17)](https://pfzuo.github.io/publication/), [RRCS (IPDPS'18)](https://ieeexplore.ieee.org/document/8374580)
+
+--- 
+
 
