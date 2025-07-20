@@ -714,7 +714,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-theme-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -751,7 +751,7 @@ footer.sticky-bottom {
         }
 
         .award {
-          color: var(--global-theme-color) !important;
+          color: var(--global-highlight-color) !important;
           border: 1px solid var(--global-theme-color);
         }
       }
