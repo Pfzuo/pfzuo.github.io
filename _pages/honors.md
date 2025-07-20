@@ -8,13 +8,13 @@ nav_order: 11
 ---
 
 
-*  Best Paper Award in FAST 2023.
-*  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020. (Only two awardees among all computer disciplines across China every year.)
-*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020.
-*  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020.
+*  [Best Paper Award in FAST 2023](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2023&title_1=FAST).
+*  [ACM China Doctoral Dissertation Award, 2020](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html). (Only two awardees among all computer disciplines across China every year.)
+*  [CCF Doctoral Dissertation Award Nominee, 2020](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml).
+*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award, 2020](https://chinasys.org/doku.php?id=home).
 *  Student Grant from MICRO, 2019.
 *  Shenzhen Stock Exchange Scholarship, 2019.
-*  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/).
+*  [Finalist for the Memorable Paper Award in NVMW 2019](http://nvmw.ucsd.edu/2019/program-2/).
 *  National Scholarship for Ph.D. Graduate Students, 2018.
 *  Student Grant from OSDI, 2018.
 *  Student Grant from MICRO, 2018.
