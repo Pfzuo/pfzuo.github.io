@@ -7,20 +7,23 @@ nav: true
 nav_order: 10
 ---
 
-**PC Member at Conferences:**
-* EuroSys 2026
-* NSDI 2025
-* Cloud 2021, 2022
-* ICDCS 2021
-* CloudCom 2020
-* ICPADS 2020
-* ChinaSys 2021, 2022, 2023, 2024, 2025
-* Eurosys 2019 (Shadow)
+### Technical Program Committee
+
+* 2026: [EuroSys](https://2026.eurosys.org/)
+* 2025: [NSDI](https://www.usenix.org/conference/nsdi25), [ChinaSys](https://chinasys.org/doku.php?id=home)
+* 2024: [ChinaSys](https://chinasys.org/doku.php?id=home)
+* 2023: [ChinaSys](https://chinasys.org/doku.php?id=home)
+* 2022: [Cloud](https://conferences.computer.org/cloud/2022/), [ChinaSys](https://chinasys.org/doku.php?id=home)
+* 2021: [ICDCS](https://icdcs2021.us/), [Cloud](https://conferences.computer.org/cloud/2021/), [ChinaSys](https://chinasys.org/doku.php?id=home)
+* 2020: [ICPADS](https://www.computer.org/csdl/proceedings/icpads/2020/1rvCq9dNOeI), [CloudCom](https://2020.cloudcom.org/)
+* 2019: [EuroSys (Shadow)](https://www.2019.eurosys.org/)
 
 
-**Reviewer for Journals:**
-* IEEE Transactions on Parallel and Distributed Systems (TPDS)
-* IEEE Transactions on Computers (TC)
-* ACM Transactions on Storage (TOS)
-* IEEE Transactions on Dependable and Secure Computing (TDSC)
-* IEEE Micro
+
+### Journal Reviewing
+
+* [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td)  
+* [IEEE Transactions on Computers (TC)](https://www.computer.org/csdl/journal/tc)  
+* [ACM Transactions on Storage (TOS)](https://dl.acm.org/journal/tos)  
+* [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq)  
+* [IEEE Micro](https://www.computer.org/csdl/magazine/mi)  
