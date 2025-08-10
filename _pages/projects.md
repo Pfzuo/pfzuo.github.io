@@ -2,12 +2,14 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [LLM Serving Systems, Techniques on Huawei CloudMatrix384]
 horizontal: false
 ---
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
