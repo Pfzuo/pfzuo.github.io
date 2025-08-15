@@ -3,194 +3,206 @@ layout: default
 permalink: /blog/
 title: Blogs
 nav: true
-nav_order: 20
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 30
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+nav_order: 5
 ---
 
 <div class="post">
-
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
-
-{% if blog_name_size > 0 or blog_description_size > 0 %}
-
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
+    <h1>{{ site.blog_name }}Welcome to Pengfei's Blog! 👏</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
-  {% endif %}
 
-{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
-
-  <div class="tag-category-list">
-    <ul class="p-0 m-0">
-      {% for tag in site.display_tags %}
-        <li>
-          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
-      {% endfor %}
-      {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
-        <p>&bull;</p>
+  <div class="blog-list">
+    {% assign latest_posts = site.posts | slice: 0, 3 %}
+    {% for post in latest_posts %}
+    <div class="blog-item">
+      <h2 class="blog-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      {% if post.categories %}
+      <div class="blog-meta">
+        <span class="categories">
+          {% for category in post.categories %}
+          <span class="category">{{ category }}</span>
+          {% endfor %}
+        </span>
+      </div>
       {% endif %}
-      {% for category in site.display_categories %}
-        <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
-{% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
-<br>
-
-<div class="container featured-posts">
-{% assign is_even = featured_posts.size | modulo: 2 %}
-<div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
-{% for post in featured_posts %}
-<div class="col mb-4">
-<a href="{{ post.url | relative_url }}">
-<div class="card hoverable">
-<div class="row g-0">
-<div class="col-md-12">
-<div class="card-body">
-<div class="float-right">
-<i class="fa-solid fa-thumbtack fa-xs"></i>
-</div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
-<p class="card-text">{{ post.description }}</p>
-
-                    {% if post.external_source == blank %}
-                      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-                    {% else %}
-                      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-                    {% endif %}
-                    {% assign year = post.date | date: "%Y" %}
-
-                    <p class="post-meta">
-                      {{ read_time }} min read &nbsp; &middot; &nbsp;
-                      <a href="{{ year | prepend: '/blog/' | relative_url }}">
-                        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-      {% endfor %}
+      <div class="blog-excerpt">
+        {% if post.excerpt %}
+          {% assign paragraphs = post.excerpt | strip_html | split: ". " | slice: 0, 2 %}
+          {% for paragraph in paragraphs %}
+            <p>{{ paragraph }}.</p>
+          {% endfor %}
+        {% endif %}
+      </div>
+      <div class="post-info">
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        {% assign words = post.content | strip_html | number_of_words %}
+        <span class="reading-time">
+          · {{ words | divided_by: 180 | plus: 1 }} min read
+        </span>
       </div>
     </div>
-    <hr>
+    {% endfor %}
+  </div>
 
-{% endif %}
-
-  <ul class="post-list">
-
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
-
-    {% for post in postlist %}
-
-    {% if post.external_source == blank %}
-      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-    {% else %}
-      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-    {% endif %}
-    {% assign year = post.date | date: "%Y" %}
-    {% assign tags = post.tags | join: "" %}
-    {% assign categories = post.categories | join: "" %}
-
-    <li>
-
-{% if post.thumbnail %}
-
-<div class="row">
-          <div class="col-sm-9">
-{% endif %}
-        <h3>
-        {% if post.redirect == blank %}
-          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        {% elsif post.redirect contains '://' %}
-          <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
-          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-            <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
-          </svg>
-        {% else %}
-          <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
-        {% endif %}
-      </h3>
-      <p>{{ post.description }}</p>
-      <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
-        {% if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {% endif %}
-      </p>
-      <p class="post-tags">
-        <a href="{{ year | prepend: '/blog/' | relative_url }}">
-          <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-
-          {% if tags != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
-              <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
-              {% unless forloop.last %}
-                &nbsp;
-              {% endunless %}
-              {% endfor %}
-          {% endif %}
-
-          {% if categories != "" %}
-          &nbsp; &middot; &nbsp;
-            {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">
-              <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
-              {% unless forloop.last %}
-                &nbsp;
-              {% endunless %}
-              {% endfor %}
-          {% endif %}
-    </p>
-
-{% if post.thumbnail %}
-
-</div>
-
-  <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+  <div class="view-all">
+    <a href="{{ '/archives/' | relative_url }}" class="view-all-link">View All Posts →</a>
   </div>
 </div>
-{% endif %}
-    </li>
 
-    {% endfor %}
+<style>
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
-  </ul>
+.header-bar {
+  margin-bottom: 40px;
+}
 
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
+.header-bar h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;  /* Dark color for light mode */
+}
 
-</div>
+.header-bar h2 {
+  font-size: 1.2em;
+  font-weight: normal;
+  color: #666;
+}
+
+.blog-list {
+  margin-bottom: 40px;
+}
+
+.blog-item {
+  margin-bottom: 40px;
+  padding: 25px;
+  border-radius: 8px;
+  background-color: #f8f9fa;  /* Light gray background for the box */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.blog-title {
+  margin-bottom: 10px;
+}
+
+.blog-title a {
+  color: #333;
+  text-decoration: none;
+  font-size: 0.9em;  
+  font-weight: 900;
+}
+
+.blog-title a:hover {
+  color: #b509ac;
+}
+
+.blog-meta {
+  margin-bottom: 15px;
+  color: #666;
+  font-size: 0.9em;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.blog-meta .date {
+  margin-right: 15px;
+}
+
+.category {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 2px 8px;
+  background: #f1f1f1;
+  border-radius: 3px;
+  font-size: 0.8em;
+}
+
+.blog-description {
+  color: #444;
+  line-height: 1.6;
+}
+
+.blog-excerpt {
+  color: #444;
+  line-height: 1.6;
+  margin-top: 15px;
+  font-size: 0.95em;
+}
+
+.blog-excerpt p {
+  margin-bottom: 10px;
+}
+
+.view-all {
+  text-align: center;
+}
+
+.view-all-link {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.view-all-link:hover {
+  text-decoration: underline;
+}
+
+.reading-time {
+  color: #666;
+}
+
+/* Dark mode updates */
+@media (prefers-color-scheme: dark) {
+  .blog-title a {
+    color: #e6e6e6;
+  }
+
+  .blog-title a:hover {
+    color: #58a6ff;
+  }
+
+  .blog-meta {
+    color: #888;
+  }
+
+  .blog-description {
+    color: #ccc;
+  }
+
+  .category {
+    background: #2d2d2d;
+  }
+
+  .blog-item {
+    background-color: #2d2d2d;  /* Darker background for dark mode */
+    border: 1px solid #404040;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
+  
+  .view-all-link {
+    color: #58a6ff;
+  }
+
+  .blog-excerpt {
+    color: #ccc;
+  }
+
+  .reading-time {
+    color: #888;
+  }
+
+  .header-bar h1 {
+    color: #ffffff;  /* White color for dark mode */
+  }
+}
+</style>

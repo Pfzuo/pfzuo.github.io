@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the era of AI, where are the opportunities for the storage industry?
+title: In The Era of AI, Where Are The Opportunities for The Storage Industry?
 tags: AI LLM Machine-Learning
 
 ---
