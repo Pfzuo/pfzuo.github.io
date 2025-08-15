@@ -62,27 +62,27 @@ nav_order: 25
   color: #b509ac;
 }
 
-/* 暗色主题样式 */
+/* Dark mode updates */
 @media (prefers-color-scheme: dark) {
   .archive {
     background-color: #1a1a1a;
   }
 
   .archive-year {
-    color: #fff;
+    color: #fff;  /* Keep year headers white */
     border-bottom-color: #333;
   }
 
   .archive-date {
-    color: #888;
+    color: #b3b3b3;  /* Lighter gray for better readability */
   }
 
   .archive-title {
-    color: #e6e6e6;
+    color: #fff;  /* Change from #e6e6e6 to white for better contrast */
   }
 
   .archive-title:hover {
-    color: #2698ba;
+    color: #58a6ff;  /* Brighter blue on hover for better visibility */
   }
 }
 </style>

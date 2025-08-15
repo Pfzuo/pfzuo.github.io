@@ -184,8 +184,8 @@ nav_order: 5
   }
 
   .blog-item {
-    background-color: #2d2d2d;  /* Darker background for dark mode */
-    border: 1px solid #404040;
+    background-color: #1a1a1a;  /* 更深的背景色，增加对比 */
+    border: 1px solid #333;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
   }
   
@@ -194,15 +194,19 @@ nav_order: 5
   }
 
   .blog-excerpt {
-    color: #ccc;
+    color: #e6e6e6;  /* 浅灰白色，比原来的 #ccc 更亮 */
   }
 
-  .reading-time {
-    color: #888;
+  .post-info {
+    color: #b3b3b3;  /* 中等亮度的灰色，提高可读性 */
+  }
+
+  .date, .reading-time {
+    color: #b3b3b3;  /* 与 post-info 保持一致 */
   }
 
   .header-bar h1 {
-    color: #ffffff;  /* White color for dark mode */
+    color: #fff;  /* 纯白色提高对比度 */
   }
 }
 </style>
