@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does NVIDIA Dynamo's PD Disaggregation have issues? Our proposed "Adrenaline" is the remedy!
+title: Does NVIDIA Dynamo's PD Disaggregation Have Issues? Our Proposed "Adrenaline" Is The Remedy!
 tags: AI LLM Machine-Learning
 
 ---

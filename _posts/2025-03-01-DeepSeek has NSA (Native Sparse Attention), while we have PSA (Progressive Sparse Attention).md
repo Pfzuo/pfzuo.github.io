@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepSeek has NSA (Native Sparse Attention), while we have PSA (Progressive Sparse Attention)
+title: DeepSeek Has NSA (Native Sparse Attention), While We Have PSA (Progressive Sparse Attention)
 tags: AI LLM Machine-Learning
 
 ---
