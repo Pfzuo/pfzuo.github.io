@@ -55,12 +55,9 @@ nav_order: 25
 
 .archive-title {
   text-decoration: none;
-  color: #333;
+
 }
 
-.archive-title:hover {
-  color: #b509ac;
-}
 
 /* Dark mode updates */
 @media (prefers-color-scheme: dark) {
@@ -78,12 +75,8 @@ nav_order: 25
   }
 
   /* Make title selector more specific */
-  .archive-list .archive-item .archive-title {
+  .archive-list .archive-item {
     color: #fff !important;
-  }
-
-  .archive-list .archive-item .archive-title:hover {
-    color: #58a6ff !important; /* Add !important to override any other styles */
-  }
+  } 
 }
 </style>

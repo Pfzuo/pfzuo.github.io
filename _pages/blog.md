@@ -48,7 +48,7 @@ nav_order: 5
   </div>
 
   <div class="view-all">
-    <a href="{{ '/archives/' | relative_url }}" class="view-all-link">View All Posts →</a>
+    <a href="{{ '/archive/' | relative_url }}" class="view-all-link">View All Posts →</a>
   </div>
 </div>
 
@@ -162,51 +162,59 @@ nav_order: 5
 }
 
 /* Dark mode updates */
-
-  html.dark .blog-title a {
+@media (prefers-color-scheme: dark) {
+  .blog-title a {
     color: #e6e6e6;
   }
 
-  html.dark .blog-title a:hover {
+  .blog-title a:hover {
     color: #58a6ff;
   }
 
-  html.dark .blog-meta {
+  .blog-meta {
     color: #888;
   }
 
-  html.dark .blog-description {
+  .blog-description {
     color: #ccc;
   }
 
-  html.dark .category {
+  .category {
     background: #2d2d2d;
   }
 
-  html.dark .blog-item {
-    background-color: #1a1a1a;  /* 更深的背景色，增加对比 */
+  .blog-item {
+    background-color: #1a1a1a;
     border: 1px solid #333;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
   }
   
-  html.dark .view-all-link {
+  .view-all-link {
     color: #58a6ff;
   }
 
- html.dark .blog-excerpt {
+  .blog-excerpt {
     color: #333 !important;  
   }
 
- html.dark .post-info {
-    color: #333;  /* Changed from #b3b3b3 to dark color */
+  .p {
+    color: #333 !important;  
   }
 
- html.dark .date, .reading-time {
-    color: #333 !important;  /* Changed from #b3b3b3 to dark color */
+  .post-info {
+    color: #333;
   }
 
- html.dark .header-bar h1 {
-    color: #fff !important;  /* 纯白色提高对比度 */
+  .reading-time {
+    color: #333 !important;
   }
 
+  .date {
+    color: #333 !important;
+  }
+
+  .header-bar h1 {
+    color: #fff !important;
+  }
+}
 </style>
