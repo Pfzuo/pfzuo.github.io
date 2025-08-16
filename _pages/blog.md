@@ -162,51 +162,51 @@ nav_order: 5
 }
 
 /* Dark mode updates */
-@media (prefers-color-scheme: dark) {
-  .blog-title a {
+
+  html.dark .blog-title a {
     color: #e6e6e6;
   }
 
-  .blog-title a:hover {
+  html.dark .blog-title a:hover {
     color: #58a6ff;
   }
 
-  .blog-meta {
+  html.dark .blog-meta {
     color: #888;
   }
 
-  .blog-description {
+  html.dark .blog-description {
     color: #ccc;
   }
 
-  .category {
+  html.dark .category {
     background: #2d2d2d;
   }
 
-  .blog-item {
+  html.dark .blog-item {
     background-color: #1a1a1a;  /* 更深的背景色，增加对比 */
     border: 1px solid #333;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
   }
   
-  .view-all-link {
+  html.dark .view-all-link {
     color: #58a6ff;
   }
 
-  .blog-excerpt {
+ html.dark .blog-excerpt {
     color: #333 !important;  
   }
 
-  .post-info {
+ html.dark .post-info {
     color: #333;  /* Changed from #b3b3b3 to dark color */
   }
 
-  .date, .reading-time {
+ html.dark .date, .reading-time {
     color: #333 !important;  /* Changed from #b3b3b3 to dark color */
   }
 
-  .header-bar h1 {
-    color: #fff;  /* 纯白色提高对比度 */
+ html.dark .header-bar h1 {
+    color: #fff !important;  /* 纯白色提高对比度 */
   }
-}
+
 </style>
