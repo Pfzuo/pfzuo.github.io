@@ -69,20 +69,21 @@ nav_order: 25
   }
 
   .archive-year {
-    color: #fff;  /* Keep year headers white */
+    color: #fff;
     border-bottom-color: #333;
   }
 
   .archive-date {
-    color: #b3b3b3;  /* Lighter gray for better readability */
+    color: #b3b3b3;
   }
 
-  .archive-title {
-    color: #fff;  /* Change from #e6e6e6 to white for better contrast */
+  /* Make title selector more specific */
+  .archive-list .archive-item .archive-title {
+    color: #fff;
   }
 
-  .archive-title:hover {
-    color: #58a6ff;  /* Brighter blue on hover for better visibility */
+  .archive-list .archive-item .archive-title:hover {
+    color: #58a6ff;
   }
 }
 </style>
