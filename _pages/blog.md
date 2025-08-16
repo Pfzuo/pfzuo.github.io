@@ -194,15 +194,15 @@ nav_order: 5
   }
 
   .blog-excerpt {
-    color: #e6e6e6;  /* 浅灰白色，比原来的 #ccc 更亮 */
+    color: #333;  
   }
 
   .post-info {
-    color: #b3b3b3;  /* 中等亮度的灰色，提高可读性 */
+    color: #333;  /* Changed from #b3b3b3 to dark color */
   }
 
   .date, .reading-time {
-    color: #b3b3b3;  /* 与 post-info 保持一致 */
+    color: #333;  /* Changed from #b3b3b3 to dark color */
   }
 
   .header-bar h1 {
