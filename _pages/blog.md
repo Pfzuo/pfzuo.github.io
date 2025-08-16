@@ -194,7 +194,7 @@ nav_order: 5
   }
 
   .blog-excerpt {
-    color: #333;  
+    color: #333 !important;  
   }
 
   .post-info {
@@ -202,7 +202,7 @@ nav_order: 5
   }
 
   .date, .reading-time {
-    color: #333;  /* Changed from #b3b3b3 to dark color */
+    color: #333 !important;  /* Changed from #b3b3b3 to dark color */
   }
 
   .header-bar h1 {

@@ -79,11 +79,11 @@ nav_order: 25
 
   /* Make title selector more specific */
   .archive-list .archive-item .archive-title {
-    color: #fff;
+    color: #fff !important;
   }
 
   .archive-list .archive-item .archive-title:hover {
-    color: #58a6ff;
+    color: #58a6ff !important; /* Add !important to override any other styles */
   }
 }
 </style>
