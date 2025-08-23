@@ -55,7 +55,7 @@ nav_order: 25
 
 .archive-title {
   text-decoration: none;
-  color: #333;
+  
 }
 
 
