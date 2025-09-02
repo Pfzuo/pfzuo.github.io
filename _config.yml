@@ -52,7 +52,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -197,8 +197,6 @@ exclude:
   - _pages/profiles.md
   - _pages/books.md
   - _pages/dropdown.md
-  - _projects
-  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -355,11 +353,11 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
-    - 1400
+    - 1200
   input_directories:
     - assets/img/
   input_formats:
