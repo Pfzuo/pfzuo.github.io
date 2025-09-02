@@ -17,7 +17,7 @@ horizontal: false
 
 
 <div style="text-align: center;">
-  <img src="http://localhost:4000/assets/img/project-llm-serving.jpg" alt="LLM Serving Systems" width="600">
+  <img src="assets/img/project-llm-serving.jpg" alt="LLM Serving Systems" width="600">
 </div>
 <br>
 
@@ -42,7 +42,7 @@ Together, these layers form a comprehensive, principled solution that addresses 
 
 
 <div style="text-align: center;">
-  <img src="http://localhost:4000/assets/img/project-agent.jpg" alt="agents" width="600">
+  <img src="assets/img/project-agent.jpg" alt="agents" width="600">
 </div>
 <br>
 
@@ -60,7 +60,7 @@ This project tackles the central challenges in building advanced autonomous LLM 
 ---
 
 <div style="text-align: center;">
-  <img src="http://localhost:4000/assets/img/project-dm.jpg" alt="Disaggregated Memory Infrastructure" width="600">
+  <img src="assets/img/project-dm.jpg" alt="Disaggregated Memory Infrastructure" width="600">
 </div>
 
 <br>
@@ -84,7 +84,7 @@ Together, these layers form a complete and principled solution for building next
 ---
 
 <div style="text-align: center;">
-  <img src="http://localhost:4000/assets/img/project-nvm.jpg" alt="Persistent Memory System and Architecture" width="700">
+  <img src="assets/img/project-nvm.jpg" alt="Persistent Memory System and Architecture" width="700">
 </div>
 <br>
 
