@@ -5,7 +5,7 @@ date: 2026-01-06
 tags: LLM Inference System
 _styles: |
   #markdown-content img {
-    width: 100%;
+    width: 70%;
     height: auto;
     display: block;
     margin: 0 auto 8px;
@@ -78,7 +78,7 @@ Next, I will briefly introduce the content of these five representative works. I
  
 #### 1) SparseServe: Breaking the “Capacity Wall” of Dynamic Sparse Attention
 
-**Paper link:** `https://arxiv.org/abs/2509.24626v1`
+**Paper link:** [https://arxiv.org/abs/2509.24626v1](https://arxiv.org/abs/2509.24626v1)
 
 **Motivation:** Introducing dynamic sparse attention (DSA) dramatically reduces Attention computation and per-step memory access. However, the system faces a severe “storage efficiency paradox”: to guarantee low decoding latency, a large number of KV caches corresponding to unselected “cold” tokens must still reside in HBM. This directly shifts the system bottleneck from “compute/bandwidth” to “memory capacity.” As shown in Figure 3, for full attention, limited by the memory bandwidth wall, simply increasing batch size yields saturated improvements to decoding throughput (the curve flattens); whereas for DSA, thanks to its low bandwidth requirements, increasing batch size should deliver a linear jump in end-to-end throughput. Unfortunately, in reality, batch size is often prematurely hard-limited by HBM physical capacity, preventing DSA’s extremely high theoretical throughput ceiling from being fulfilled in production.
  
@@ -98,7 +98,7 @@ To address these challenges, we propose SparseServe, an LLM inference technique 
  
 #### 2) Adrenaline: Injecting “Adrenaline” into Inference Systems
 
-**Paper link:** `https://arxiv.org/abs/2503.20552`
+**Paper link:** [https://arxiv.org/abs/2503.20552](https://arxiv.org/abs/2503.20552)
 
 **Motivation:** In the mainstream PD separation architecture, we face a severe resource mismatch. As shown in Figure 4, the Decode node, limited by HBM bandwidth, often has its expensive compute resources “starved” and cannot be fully utilized; meanwhile, the Prefill node, handling compute-intensive Prefill tasks, has its abundant HBM bandwidth long underutilized. However, physical separation prevents Decode from “borrowing” the Prefill node’s HBM bandwidth, and Prefill cannot “support” the compute needs of Decode. This divide forms “resource islands” between Prefill and Decode nodes, making it difficult to break the bottleneck of overall cluster resource utilization.
  
@@ -120,7 +120,7 @@ By letting Decode attention tasks naturally flow from resource-constrained Decod
  
 #### 3) TaiChi: The Tai Chi Way of Unifying Architectures
 
-**Paper link:** `https://arxiv.org/abs/2508.01989`
+**Paper link:** [https://arxiv.org/abs/2508.01989](https://arxiv.org/abs/2508.01989)
 
 **Motivation:** In the LLM inference field, there is an architectural debate: one side is PD aggregation (placing Prefill and Decode on the same GPU), while the other is PD separation (deploying them on different GPUs). We systematically compared their performance under different TTFT and TPOT SLOs and found: when TTFT SLO is strict and TPOT SLO is relaxed, aggregation wins; under the opposite conditions, separation is better. However, under balanced TTFT/TPOT SLOs, both show significant suboptimality in terms of Goodput (effective throughput under SLO), revealing a previously uncharacterized “Goodput Gap,” as shown in Figure 6.
  
