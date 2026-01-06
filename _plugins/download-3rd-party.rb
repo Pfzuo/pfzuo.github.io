@@ -1,10 +1,17 @@
-Jekyll::Hooks.register :site, :after_init do |site|
+begin
   require 'css_parser'
-  require 'digest'
-  require 'fileutils'
   require 'nokogiri'
   require 'open-uri'
-  require 'uri'
+  HAVE_DOWNLOAD_DEPS = true
+rescue LoadError
+  HAVE_DOWNLOAD_DEPS = false
+end
+require 'digest'
+require 'fileutils'
+require 'uri'
+
+if HAVE_DOWNLOAD_DEPS
+Jekyll::Hooks.register :site, :after_init do |site|
 
   font_file_types = ['otf', 'ttf', 'woff', 'woff2']
   image_file_types = ['.gif', '.jpg', '.jpeg', '.png', '.webp']
@@ -250,4 +257,5 @@ Jekyll::Hooks.register :site, :after_init do |site|
       end
     end
   end
+end
 end

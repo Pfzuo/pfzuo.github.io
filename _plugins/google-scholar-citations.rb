@@ -1,6 +1,11 @@
 require "active_support/all"
-require 'nokogiri'
-require 'open-uri'
+begin
+  require 'nokogiri'
+  require 'open-uri'
+  HAVE_GOOGLE_DEPS = true
+rescue LoadError
+  HAVE_GOOGLE_DEPS = false
+end
 
 module Helpers
   extend ActiveSupport::NumberHelper
@@ -26,6 +31,7 @@ module Jekyll
     end
 
     def render(context)
+      return "N/A" unless HAVE_GOOGLE_DEPS
       article_id = context[@article_id.strip]
       scholar_id = context[@scholar_id.strip]
       article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"

@@ -3,7 +3,7 @@
  * To adjust anything, simply edit the variables below and rebuild the theme.
  ******************************************************************************/
 
-@use "sass:color";
+// dart-sass module not supported by sassc
 
 // Colors
 $red-color: #ff3636 !default;
@@ -12,20 +12,20 @@ $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
 $cyan-color: #2698ba !default;
-$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+$light-cyan-color: adjust-color($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+$light-purple-color: adjust-color($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-light: adjust-color($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
