@@ -42,7 +42,7 @@ My research focuses on AI and cloud infrastructure, with an emphasis on machine 
 ### Research
 
 #### AI Systems and Algorithms  
-* LLM Serving Systems: [CachedAttention (USENIX ATC'24)](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost), [Adrenaline (ArXiv'25)](https://arxiv.org/abs/2406.10198), [TaiChi (ArXiv'25)](https://arxiv.org/abs/2508.01989), [SparseServe (ArXiv'25)](https://arxiv.org/pdf/2509.24626), [DualMap (ICLR'26)](https://openreview.net/pdf?id=zCadrJ32Xn)
+* LLM Serving Systems: [CachedAttention (USENIX ATC'24)](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost), [Adrenaline (ArXiv'25)](https://arxiv.org/abs/2406.10198), [TaiChi (ArXiv'25)](https://arxiv.org/abs/2508.01989), [SparseServe (ICS'26)](https://arxiv.org/pdf/2509.24626), [DualMap (ICLR'26)](https://openreview.net/pdf?id=zCadrJ32Xn)
 * Generative Recommendation: [RelayGR (Technical Report'26)](https://arxiv.org/abs/2601.01712)  
 * AI Algorithms: [AdaSkip (AAAI'25)](https://arxiv.org/abs/2405.19583),  [Progressive Sparse Attention (ArXiv'25)](https://arxiv.org/abs/2406.10731)  
 * AI Hardware Architectures: [DeepSniffer (ASPLOS'20)](https://dl.acm.org/doi/10.1145/3373376.3378487), [SEAL (DAC'21)](https://dl.acm.org/doi/10.1109/DAC18074.2021.9586256), [Memory Trojaning (TCAD'21)](https://ieeexplore.ieee.org/document/9345491), [CloudMatrix384 (Technical Report'25)](https://arxiv.org/abs/2506.12708)  
