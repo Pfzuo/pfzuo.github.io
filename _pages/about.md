@@ -37,7 +37,7 @@ I received my Ph.D. degree (advised by Prof. [Yu Hua](https://csyhua.github.io/)
 My research focuses on AI and cloud infrastructure, with an emphasis on machine learning systems and memory systems. I have published 50+ refereed papers in top-tier computer systems and architecture conferences and journals, including SOSP, OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, and DAC. I received the [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year) and the [Best Paper Award in FAST 2023](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2023&title_1=FAST). The open-source codes for our research on AI systems and disaggregated data centers are available at [ASISys](https://github.com/ASISys) and [DMemSys](https://github.com/dmemsys), respectively.
 
 
-***I am seeking motivated interns and postdocs in AI systems. If you're passionate about tackling key industry challenges and publishing impactful research, feel free to reach out!*** 
+***I am seeking motivated interns in AI systems. If you're passionate about tackling key industry challenges and publishing impactful research, feel free to reach out!*** 
 
 ---
 
