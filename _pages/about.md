@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I currently serve as the chief architect of AI-native storage at Huawei Cloud. I lead the EMS ([Elastic Memory Service](https://www.huaweicloud.com/product/ems.html)) team to build a disaggregated memory service layer in the cloud, upgrading Huawei Cloud's two-tier infrastructure architecture that disaggregates storage and computing into a three-tier architecture that disaggregates computing, memory, and storage. This transformation enables higher resource elasticity and utilization. EMS also serves as a foundational memory infrastructure to enhance the efficiency of LLM training and inference on Huawei Cloud. 
+I am currently an AI Infrastructure Engineer and Researcher at ByteDance Seed.
+
+Prior to joining Seed, I served as the Chief Architect of AI-Native Storage at Huawei Cloud. In this role, I led the EMS ([Elastic Memory Service](https://www.huaweicloud.com/product/ems.html)) team in building a disaggregated memory service layer in the cloud. This initiative successfully upgraded Huawei Cloud's two-tier infrastructure architecture that disaggregates storage and computing into a three-tier architecture that disaggregates computing, memory, and storage. This transformation unlocked greater resource elasticity and utilization, establishing EMS as a foundational memory infrastructure that significantly enhances the efficiency of LLM training and inference on Huawei Cloud.
 
 I received my Ph.D. degree (advised by Prof. [Yu Hua](https://csyhua.github.io/)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019. I was a visiting Ph.D. student (advised by Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014.  
 
