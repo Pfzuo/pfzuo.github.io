@@ -4,6 +4,8 @@ permalink: /blog/
 title: Blogs
 nav: true
 nav_order: 25
+pagination:
+  enabled: true
 ---
 
 <div class="archive">

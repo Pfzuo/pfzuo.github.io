@@ -16,8 +16,81 @@ horizontal: false
 ---
 
 
-<div style="text-align: center;">
-  <img src="https://pfzuo.github.io/assets/img/project-llm-serving.jpg" alt="LLM Serving Systems" width="500">
+<div style="display:flex;justify-content:center;">
+  <div style="position:relative;width:500px;height:400px;font-family:Arial,Helvetica,sans-serif;background:#fff;">
+    <div style="position:absolute;left:2px;top:4px;width:496px;height:62px;background:#b9eeff;border:1.5px solid #111;box-sizing:border-box;">
+      <div style="position:absolute;left:0;right:0;top:6px;text-align:center;font-size:14px;font-weight:800;letter-spacing:0.2px;line-height:1.05;">Distributed Request Router</div>
+      <div style="position:absolute;left:7px;right:7px;bottom:6px;height:33px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:4px;">DualMap: Achieving Both Cache Afinity and Load Balance</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ICLR'26)</div>
+      </div>
+    </div>
+
+    <div style="position:absolute;left:118px;top:66px;width:1.5px;height:32px;background:#111;"></div>
+    <div style="position:absolute;left:114px;top:66px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid #111;"></div>
+    <div style="position:absolute;left:114px;top:91px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+    <div style="position:absolute;left:350px;top:66px;width:1.5px;height:32px;background:#111;"></div>
+    <div style="position:absolute;left:346px;top:66px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid #111;"></div>
+    <div style="position:absolute;left:346px;top:91px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+
+    <div style="position:absolute;left:2px;top:98px;width:496px;height:232px;background:#c8eaa7;border:1.5px solid #111;box-sizing:border-box;">
+      <div style="text-align:center;font-size:14px;font-weight:800;line-height:1.05;margin-top:8px;">Disaggregated LLM Serving</div>
+
+      <div style="position:absolute;left:18px;top:44px;width:185px;height:30px;background:#8cd24d;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:22px;top:40px;width:185px;height:30px;background:#95d956;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:26px;top:36px;width:185px;height:30px;background:#9ddf5d;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:30px;top:32px;width:185px;height:30px;background:#a6e666;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:70px;top:47px;font-size:11px;font-weight:700;line-height:1.05;">Prefill Instance</div>
+
+      <div style="position:absolute;left:278px;top:44px;width:185px;height:30px;background:#8cd24d;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:282px;top:40px;width:185px;height:30px;background:#95d956;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:286px;top:36px;width:185px;height:30px;background:#9ddf5d;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:290px;top:32px;width:185px;height:30px;background:#a6e666;border:1.5px solid #2f5e23;transform:skewX(-15deg);"></div>
+      <div style="position:absolute;left:330px;top:47px;font-size:11px;font-weight:700;line-height:1.05;">Decode Instance</div>
+
+      <div style="position:absolute;left:7px;top:88px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">Adrenaline: Atteion Disaggregation</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ArXiv’25)</div>
+      </div>
+      <div style="position:absolute;left:251px;top:88px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">SparseServe: Serving with DSA</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ICS'26)</div>
+      </div>
+
+      <div style="position:absolute;left:7px;top:137px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">TaiChi: Unifying PD Aggregation & Disag.</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ArXiv’25)</div>
+      </div>
+      <div style="position:absolute;left:251px;top:137px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">Progressive Sparse Attention</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ArXiv’25)</div>
+      </div>
+
+      <div style="position:absolute;left:7px;top:186px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">CloudMatrix-Infer</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(Technique Report’25)</div>
+      </div>
+      <div style="position:absolute;left:251px;top:186px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">AdaSkip: Adaptive Sublayer Skipping</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(AAAI’25)</div>
+      </div>
+    </div>
+
+    <div style="position:absolute;left:114px;top:330px;width:1.5px;height:9px;background:#111;"></div>
+    <div style="position:absolute;left:110px;top:330px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid #111;"></div>
+    <div style="position:absolute;left:110px;top:334px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+    <div style="position:absolute;left:362px;top:330px;width:1.5px;height:9px;background:#111;"></div>
+    <div style="position:absolute;left:358px;top:330px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid #111;"></div>
+    <div style="position:absolute;left:358px;top:334px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+
+    <div style="position:absolute;left:2px;top:339px;width:496px;height:72px;background:#fff1bf;border:1.5px solid #111;box-sizing:border-box;">
+      <div style="text-align:center;font-size:14px;font-weight:800;line-height:1.05;margin-top:8px;">Context Caching</div>
+      <div style="position:absolute;left:7px;right:7px;bottom:6px;height:38px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:4px;">CachedAttention: The First Context Caching System with Hierarchical Storage</div>
+        <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(USENIX ATC’24)</div>
+      </div>
+    </div>
+  </div>
 </div>
 <br>
 
@@ -41,8 +114,60 @@ Together, these layers form a comprehensive, principled solution that addresses 
 ---
 
 
-<div style="text-align: center;">
-  <img src="https://pfzuo.github.io/assets/img/project-agent.jpg" alt="agents" width="500">
+<div style="display:flex;justify-content:center;">
+  <div style="position:relative;width:500px;height:300px;font-family:Arial,Helvetica,sans-serif;background:#fff;">
+    <div style="position:absolute;left:2px;top:2px;width:496px;height:203px;border:1.5px solid #111;border-radius:16px;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:14px;top:18px;font-size:16px;font-weight:800;">Agent</div>
+
+    <div style="position:absolute;left:108px;top:10px;width:286px;height:182px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:108px;right:106px;top:20px;text-align:center;font-size:16px;font-weight:800;line-height:1;">Agent Brain</div>
+
+    <div style="position:absolute;left:117px;top:40px;width:268px;height:65px;border:1.5px solid #111;background:#cfe9b4;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:117px;right:115px;top:48px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Memory</div>
+    <div style="position:absolute;left:138px;top:67px;width:226px;height:28px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:138px;right:136px;top:73px;text-align:center;font-size:10px;font-weight:700;line-height:1;">Efficient Agent Memory System</div>
+    <div style="position:absolute;left:138px;right:136px;top:84px;text-align:center;font-size:10px;font-weight:800;line-height:1;color:#ff008a;">(Under Review)</div>
+
+    <div style="position:absolute;left:117px;top:117px;width:268px;height:65px;border:1.5px solid #111;background:#ffc4c4;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:117px;right:115px;top:124px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Planning (LLM)</div>
+    <div style="position:absolute;left:138px;top:142px;width:226px;height:28px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:138px;right:136px;top:148px;text-align:center;font-size:10px;font-weight:700;line-height:1;">Accelerating ToT Reasoning</div>
+    <div style="position:absolute;left:138px;right:136px;top:159px;text-align:center;font-size:10px;font-weight:800;line-height:1;color:#ff008a;">(Under Review)</div>
+
+    <div style="position:absolute;left:124px;top:106px;width:1.5px;height:11px;background:#111;transform:translateX(125px);"></div>
+    <div style="position:absolute;left:246px;top:111px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+
+    <div style="position:absolute;left:8px;top:132px;width:72px;height:35px;border:1.5px solid #111;background:#b9eeff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:8px;top:143px;width:72px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Perception</div>
+
+    <div style="position:absolute;left:414px;top:132px;width:72px;height:35px;border:1.5px solid #111;background:#b9eeff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:414px;top:143px;width:72px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Action</div>
+
+    <div style="position:absolute;left:80px;top:149px;width:37px;height:1.5px;background:#111;"></div>
+    <div style="position:absolute;left:113px;top:146px;width:0;height:0;border-top:4px solid transparent;border-bottom:4px solid transparent;border-left:7px solid #111;"></div>
+    <div style="position:absolute;left:385px;top:149px;width:29px;height:1.5px;background:#111;"></div>
+    <div style="position:absolute;left:410px;top:146px;width:0;height:0;border-top:4px solid transparent;border-bottom:4px solid transparent;border-left:7px solid #111;"></div>
+
+    <div style="position:absolute;left:43px;top:167px;width:1.5px;height:68px;background:#111;"></div>
+    <div style="position:absolute;left:39px;top:167px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid #111;"></div>
+    <div style="position:absolute;left:39px;top:228px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+    <div style="position:absolute;left:55px;top:210px;font-size:10px;font-weight:500;">Observation</div>
+
+    <div style="position:absolute;left:450px;top:167px;width:1.5px;height:68px;background:#111;"></div>
+    <div style="position:absolute;left:446px;top:228px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:7px solid #111;"></div>
+
+    <div style="position:absolute;left:2px;top:238px;width:496px;height:60px;border:1.5px solid #111;border-radius:12px;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:10px;top:255px;font-size:16px;font-weight:800;line-height:1;">Environment</div>
+
+    <div style="position:absolute;left:108px;top:248px;width:116px;height:34px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:108px;top:260px;width:116px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Reward</div>
+
+    <div style="position:absolute;left:239px;top:248px;width:116px;height:34px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:239px;top:260px;width:116px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Feedback</div>
+
+    <div style="position:absolute;left:370px;top:248px;width:116px;height:34px;border:1.5px solid #111;background:#fff;box-sizing:border-box;"></div>
+    <div style="position:absolute;left:370px;top:260px;width:116px;text-align:center;font-size:12px;font-weight:800;line-height:1;">Tool</div>
+  </div>
 </div>
 <br>
 

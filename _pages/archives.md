@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /archive/
 title: Blogs
 nav: false
 nav_order: 5
