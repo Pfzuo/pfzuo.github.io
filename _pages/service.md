@@ -9,7 +9,8 @@ nav_order: 10
 
 ### Technical Program Committee
 
-* 2026: [EuroSys](https://2026.eurosys.org/)
+* 2027: [NSDI](https://www.usenix.org/conference/nsdi27)
+* 2026: [EuroSys](https://2026.eurosys.org/), [ICML](https://icml.cc/) (Reviewer)
 * 2025: [NSDI](https://www.usenix.org/conference/nsdi25), [NAS](http://nas-conf.org/NAS-2024/index.html), [ChinaSys](https://chinasys.org/doku.php?id=home)
 * 2024: [ChinaSys](https://chinasys.org/doku.php?id=home)
 * 2023: [ChinaSys](https://chinasys.org/doku.php?id=home)
