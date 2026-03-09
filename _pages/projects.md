@@ -49,7 +49,7 @@ horizontal: false
       <div style="position:absolute;left:330px;top:47px;font-size:11px;font-weight:700;line-height:1.05;">Decode Instance</div>
 
       <div style="position:absolute;left:7px;top:88px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
-        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">Adrenaline: Atteion Disaggregation</div>
+        <div style="text-align:center;font-size:12px;font-weight:700;line-height:1.05;margin-top:5px;white-space:nowrap;">Adrenaline: Attention Disaggregation</div>
         <div style="text-align:center;font-size:12px;font-weight:800;line-height:1.05;color:#ff008a;margin-top:2px;">(ArXiv’25)</div>
       </div>
       <div style="position:absolute;left:251px;top:88px;width:238px;height:42px;background:#fff;border:1.5px solid #111;box-sizing:border-box;">
