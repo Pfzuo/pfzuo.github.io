@@ -9,6 +9,7 @@ nav_order: 15
 
 |Date        | Title and Event                                                                                                                                 | Location        |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 11/2025    | *"Serving Large Language Models on Huawei CloudMatrix384"*, Invited Talk in [FAISys 2025](https://www.faisys.net/).                                              | Hong Kong, China |
 | 10/2025    | *"LLM Serving Optimization for Huawei CloudMatrix384"*, Invited Talk in [CCF CNCC 2025](https://ccf.org.cn/cncc2025).                                              | Haerbin, China |
 | 08/2025    | *"Peer-to-peer LLM Serving Architecture for Huawei CloudMatrix384"*, Invited Talk in [CCF ChinaStorage 2025](https://ccf.org.cn/chinastorage2025).                                              | Wuhan, China |
 | 11/2024    | *"Disaggregated Memory Infrastructure in AI Datacenters"*, Invited Talk in [CCF ChinaStorage 2024](https://ccf.org.cn/chinastorage).                                              | Gongzhou, China |
