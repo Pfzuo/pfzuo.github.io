@@ -30,7 +30,7 @@ latest_posts:
 
 I currently work on AI infrastructure at ByteDance Seed.
 
-Prior to joining Seed, I served as the Chief Architect of AI-Native Storage at Huawei Cloud. In this role, I led the EMS ([Elastic Memory Service](https://www.huaweicloud.com/product/ems.html)) team in building a disaggregated memory service layer in the cloud. This initiative successfully upgraded Huawei Cloud's two-tier infrastructure architecture that disaggregates storage and computing into a three-tier architecture that disaggregates computing, memory, and storage. This transformation unlocked greater resource elasticity and utilization, establishing EMS as a foundational memory infrastructure that significantly enhances the efficiency of LLM training and inference on Huawei Cloud.
+Prior to joining Seed, I was a technical leader and expert in AI & cloud infrastructure at Huawei Cloud, where I worked on large-scale software and hardware systems spanning LLM serving, AI infrastructure, and memory services — including a series of [innovative techniques for LLM serving](/projects/#1-llm-serving-systems), the [CloudMatrix384](https://arxiv.org/abs/2506.12708) AI supernode system, and the [Elastic Memory Service (EMS)](https://www.huaweicloud.com/product/ems.html), a disaggregated memory infrastructure that serves as the caching foundation for LLM training and inference.
 
 I received my Ph.D. degree (advised by Prof. [Yu Hua](https://csyhua.github.io/)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019. I was a visiting Ph.D. student (advised by Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014.  
 
@@ -44,7 +44,8 @@ My research focuses on AI and cloud infrastructure, with an emphasis on machine 
 ### Research
 
 #### AI Systems and Algorithms  
-* LLM Serving Systems: [CachedAttention (USENIX ATC'24)](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost), [Adrenaline (ArXiv'25)](https://arxiv.org/abs/2406.10198), [TaiChi (ArXiv'25)](https://arxiv.org/abs/2508.01989), [SparseServe (ICS'26)](https://arxiv.org/pdf/2509.24626), [DualMap (ICLR'26)](https://openreview.net/pdf?id=zCadrJ32Xn), [TileSparse (ICML'26)](https://pfzuo.github.io/), [SPEX (OSDI'26)](https://pfzuo.github.io/)
+* LLM Serving Systems: [CachedAttention (USENIX ATC'24)](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost), [Adrenaline (ArXiv'25)](https://arxiv.org/abs/2406.10198), [TaiJi (SC'26)](https://arxiv.org/abs/2508.01989), [SparseServe (ICS'26)](https://arxiv.org/pdf/2509.24626), [DualMap (ICLR'26)](https://openreview.net/pdf?id=zCadrJ32Xn), [TileSparse (ICML'26)](https://pfzuo.github.io/), [SPEX (OSDI'26)](https://arxiv.org/abs/2605.10195)
+* LLM Agent Systems: [Maze (SC'26)](https://pfzuo.github.io/)
 * Generative Recommendation: [RelayGR (Technical Report'26)](https://arxiv.org/abs/2601.01712)  
 * AI Algorithms: [AdaSkip (AAAI'25)](https://arxiv.org/abs/2405.19583), [Progressive Sparse Attention (ArXiv'25)](https://arxiv.org/abs/2406.10731), [HyPER (ICML'26)](https://arxiv.org/pdf/2602.06527)  
 * AI Hardware Architectures: [DeepSniffer (ASPLOS'20)](https://dl.acm.org/doi/10.1145/3373376.3378487), [SEAL (DAC'21)](https://dl.acm.org/doi/10.1109/DAC18074.2021.9586256), [Memory Trojaning (TCAD'21)](https://ieeexplore.ieee.org/document/9345491), [CloudMatrix384 (Technical Report'25)](https://arxiv.org/abs/2506.12708)  
