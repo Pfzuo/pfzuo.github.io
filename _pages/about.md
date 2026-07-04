@@ -30,7 +30,7 @@ latest_posts:
 
 I currently work on AI infrastructure at ByteDance Seed.
 
-Prior to joining Seed, I was a technical leader and expert in AI & cloud infrastructure at Huawei Cloud, where I worked on large-scale software and hardware systems spanning LLM serving, AI infrastructure, and memory services — including a series of [innovative techniques for LLM serving](/projects/#1-llm-serving-systems), the [CloudMatrix384](https://arxiv.org/abs/2506.12708) AI supernode system, and the [Elastic Memory Service (EMS)](https://www.huaweicloud.com/product/ems.html), a disaggregated memory infrastructure that serves as the caching foundation for LLM training and inference.
+Prior to joining Seed, I was a technical leader and expert in AI & cloud infrastructure at Huawei Cloud, where I worked on strategy planning, technical innovation, and engineering implementation for large-scale AI software and hardware systems, with a focus on LLM serving, AI supernode systems, and memory and storage services. My work included a series of [innovative techniques for LLM serving](/projects/#1-llm-serving-systems), the [CloudMatrix384](https://arxiv.org/abs/2506.12708) AI supernode system, and the [Elastic Memory Service (EMS)](https://www.huaweicloud.com/product/ems.html), a disaggregated memory service that serves as the caching foundation for LLM training and inference.
 
 I received my Ph.D. degree (advised by Prof. [Yu Hua](https://csyhua.github.io/)) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019. I was a visiting Ph.D. student (advised by Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie)) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014.  
 
